@@ -2,7 +2,7 @@
 2020/07/11
 
 ### Project Title
-Daniel Sos Github Project
+Daniel Sos Github Project for UDACITY R programming course 
 
 ### Description
 My project is about a bikeshare service in Washington, Chicago and New York. It examines the usage of different account types, the differences in usage across cities and the most common start stations. It was done with R studio and UDACITY workspace environment.
