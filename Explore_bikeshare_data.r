@@ -15,7 +15,7 @@ summary(ny$User.Type)
 
 qplot(x=User.Type, data=ny, stat="count",
       xlab='User Type', ylab='User count by type',
-      color=I('red'), fill=I('#F79420'), main="Number of user types in NY")
+      color=I('green'), fill=I('#F79420'), main="Number of user types in NY")
 
 
 
