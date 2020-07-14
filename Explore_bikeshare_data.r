@@ -81,7 +81,7 @@ means<-c(e)
 
 #4
 
-xx<-barplot(means, main = "Average of rental time in seconds",
+xx<-barplot(means, main = "Mean rental time in seconds",
 
 ylab = "Average",
 
@@ -116,7 +116,7 @@ means<-c(e)
 
 #4
 
-xx<-barplot(means, main = "Average of rental time in seconds",
+xx<-barplot(means, main = "Mean rental time in seconds",
 
 ylab = "Average",
 
@@ -151,7 +151,7 @@ means<-c(e)
 
 #4
 
-xx<-barplot(means, main = "Average of rental time in seconds",
+xx<-barplot(means, main = "Mean rental time in seconds",
 
 ylab = "Average",
 
